@@ -4,6 +4,6 @@ falcon==1.2.0
 hug==2.6.1
 idna==2.5
 python-mimeparse==1.6.0
-requests==2.20.0
+requests==2.25.1
 six==1.15.0
 urllib3==1.24.2
